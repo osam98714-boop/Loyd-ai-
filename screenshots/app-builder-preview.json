@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Loyd AI",
+      "hasCanvas": false,
+      "bodyTextLen": 481,
+      "bodyTextHash": "6baa04653934d7ca6bf567483b312982ad3ed1a1dcb5b03c97d9352e4aad0eed",
+      "bodyTextPrefix": "Loyd AI Your personal multi-model assistant New chat PERSONA Loy",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Loyd AI",
+      "hasCanvas": false,
+      "bodyTextLen": 267,
+      "bodyTextHash": "4a502645df5c2ded003f0035bb8bbac2fe732e466af69c208a8f0de2b22f8694",
+      "bodyTextPrefix": "Gemini DeepSeek Groq OpenAI Grok Grok 4.5 How can Loyd help? Pic",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
